@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/haseo-ai/qlmd-quicklook-markdown/main/docs/app-icon.png" width="128" height="128" alt="QLMD">
+  ![QLMD-001](https://github.com/user-attachments/assets/4b2c4d2b-97e0-434c-a0ba-ca6973651d71)
 </p>
 
 <h1 align="center">QLMD</h1>
